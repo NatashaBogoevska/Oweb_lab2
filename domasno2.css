@@ -1,0 +1,25 @@
+h1        { font-family:'Arial Narrow','Arial', 'sans-serif';
+           color:rgb(60, 126, 111); text-decoration-line:overline;
+           text-align: center;}
+.voved    { text-align:center; font-size:15pt; font-style: italic; color:rgb(70, 151, 132);}
+body      { background-image: url("hand-drawn-minimal-background/5620045.jpg"); 
+           background-size:cover;}
+.outer    { border-color: rgb(0, 139, 111); border-style:double; border-width:2mm;}
+.prva     {background-color:rgba(112, 172, 158, 0.326); border-color: rgb(0, 139, 111); border-style:double}
+.vtora    {background-color:rgba(112, 172, 158, 0.326); border-color: rgb(0, 139, 111); border-style:double}
+.treta    {background-color:rgba(112, 172, 158, 0.326); border-color: rgb(0, 139, 111); border-style:double}
+.chetvrta {background-color:rgba(112, 172, 158, 0.326); border-color: rgb(0, 139, 111); border-style:double}
+legend    {font-size:15pt;color:rgb(50, 107, 94); background-color:rgba(112, 172, 158, 0.185); font-weight:600; font-style:italic;}
+label     {color:rgb(49, 97, 86); font-size:12.5pt;}
+p         {color:rgb(49, 97, 86); font-size:13pt;}
+select    {background-color:rgb(249, 227, 232); color:rgb(50, 107, 94);
+           font-family:'Arial Narrow','Arial', 'sans-serif';
+           font-weight:550;}
+option    {background-color:rgb(249, 227, 232); color:rgb(50, 107, 94);}
+input[type=submit] {font-size:larger; color:rgba(112, 172, 158, 0.326);
+                    background-color: rgba(112, 172, 158, 0.326);
+                    border-color:rgb(0, 139, 111);
+                    border-style: double;
+                    color:rgb(50, 107, 94);
+                    font-family:'Arial Narrow','Arial', 'sans-serif';
+                    font-weight: 600;}
